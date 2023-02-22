@@ -1,4 +1,4 @@
-# Embedded-AI-automated-testing 3
+# Embedded-AI-automated-testing
 This is the github repository for our UTEP senior capstone project  
 ###### Members
 Nathan Lee: nslee@miners.utep.edu  
